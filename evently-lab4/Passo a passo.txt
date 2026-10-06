@@ -1,0 +1,11 @@
+Entrar na pasta Evently 
+cd evently
+
+npm install
+
+
+Rode na ordem:
+
+npm run typecheck
+npm run demo
+npm test

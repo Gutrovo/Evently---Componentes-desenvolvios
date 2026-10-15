@@ -1,0 +1,17 @@
+{
+  "name": "evently-componentes",
+  "version": "1.0.0",
+  "description": "Lab 4 ESBC - Componentes Evento e Ingresso do Evently",
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test tests/*.test.ts",
+    "demo": "tsx src/demo.ts",
+    "demo:rastro": "tsx src/demo.ts --rastro --passo",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
